@@ -1,2 +1,2 @@
-language: p3-face
+language: py3-face
 fprocess: python3 index.py
